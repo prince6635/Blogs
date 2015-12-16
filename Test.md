@@ -1,2 +1,0 @@
-### Get familiar with Mou
-
